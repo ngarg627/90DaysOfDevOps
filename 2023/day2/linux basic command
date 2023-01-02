@@ -1,0 +1,16 @@
+make directory - mkdir
+make folder - touch, vim
+list all - ls
+change directory - cd
+present working directory - pwd
+which user - whoami
+remove directory - rmdir
+move - mv
+copy - cp
+hidden file list - ls -a
+configration file - /etc/
+show history - history
+for back at home user - exit
+rename file - mv newfilename existingfilename
+off the system - poweroff
+back from one directory - cd .. /
