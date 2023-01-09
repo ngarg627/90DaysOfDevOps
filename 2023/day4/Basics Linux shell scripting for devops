@@ -1,0 +1,34 @@
+what is kernel ?
+kernel is the hart of the linux operating system.
+it is the core interface between a computer hardware and its processs.
+
+what is linux shell scripting ?
+A shell scripting is a computer program designed to be run by linux sell, a command line interpriter.
+A typical operations performed by shell script include file manipulation, program execution and printing text.
+
+#!/bin/bash - bond against shell, shell scripting executed by bash.
+Shell scripting I WILL COMPLETE #90DAYSOFDEVOPS
+   vim devops.sh
+      #!/bin bash
+       
+       echo " I WILL COMPLETE #90DAYSOFDEVOPS "
+       
+       bash devops.sh
+       output - I WILL COMPLETE #90DAYSOFDEVOPS
+       
+       
+       define variable 
+       
+       vim nikhil.sh
+       
+       #!/bin/bash
+       
+       echo "nikhil is a software engineere"
+       echo $BASH
+       name=python
+       
+       echo"hello $name"
+       
+       bash nikhil.sh
+       output - nilhil is a software engineer
+                hello python
